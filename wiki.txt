@@ -1,0 +1,19 @@
+== Premessa ==
+
+Attualmente ci sono vari errori e imprecisioni nei dati riguardanti i confini amministrativi italiani (cioe' i confini nazionali, regionali, provinciali e comunali).
+Ad esempio ci sono (almeno) due relazioni che rappresentano l'Italia ({{Relation|16240|tools=no}} e {{Relation|365331|tools=no}}, due relazioni che rappresentano l'Emilia-Romagna ({{Relation|42661|tools=no}} e {{Relation|385307|tools=no}}) e due oggetti che rappresentano Bologna ({{Relation|43172|tools=no}} e {{Node|667350399|tools=no}}).
+Sebbene questi errori si possano fixare a mano, e' difficile individuarli e quindi accertarsi che non ce ne siano piu.
+
+Inoltre, buona parte dei dati (forse tutti) sono stati importati dai dati ISTAT del 2001. Nel frattempo sono nati altri comuni e province, alcuni comuni hanno cambiato nome, altri si sono aggregati, altri ancora si sono divisi, altri hanno cambiato provincia. Probabilmente in molti di questi casi il database e' gia' stato aggiornato correttamente, ma e' difficile verificarlo con certezza.
+
+Inoltre, i dati attuali sono imprecisi e approssimativi: spesso la distanza tra un nodo e quello successivo (sulla stessa way) e' di qualche centinaia di metri: per la visualizzazione su larga scala non c'e' problema, ma per la visualizzazione ravvicinata e' preferibile avere un dettaglio maggiore.
+
+Infine a molti comuni e province (direi quasi tutti) mancano dei tag di referenziazione, che renderebbero piu' facile la loro ricerca nel database. Mi sto riferendo al codice [http://it.wikipedia.org/wiki/ISO_3166 ISO 3166] (sia la parte 1 che la parte 2), al [http://www.istat.it/it/archivio/6789 codice ISTAT], alla sigla delle province, al [http://it.wikipedia.org/wiki/Codice_catastale codice catastale], al [http://it.wikipedia.org/wiki/Nomenclatura_delle_unità_territoriali_statistiche codice NUTS] e soprattutto al tag {{tag|wikipedia}}. La referenziazione a Wikipedia, in particolare, offre possibilita' interessanti ad entrambi i progetti (si veda [[Collaboration with Wikipedia]] e in particolare [[WIWOSM]]).
+
+
+== Proposta ==
+
+La mia proposta e' di rimuovere tutti i dati attuali e di importarli nuovamente.
+
+Prima dell'eliminazione verrebbero estratti tutte le informazioni possibili dati tag dei dati attuali (ad esempio i nomi nelle varie lingue).
+Poi si prenderebbero i [http://www.istat.it/it/archivio/24580 confini ISTAT del 2011] (la versione non generalizzata e quindi con un alto livello di dettaglio) e si 
