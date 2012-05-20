@@ -1,0 +1,111 @@
+iso;istat;ref;reg;name_it;name_de;name_fr;wiki
+IT-TO;001;TO;01;Torino;;;Provincia di Torino
+IT-VC;002;VC;01;Vercelli;;;Provincia di Vercelli
+IT-NO;003;NO;01;Novara;;;Provincia di Novara
+IT-CN;004;CN;01;Cuneo;;;Provincia di Cuneo
+IT-AT;005;AT;01;Asti;;;Provincia di Asti
+IT-AL;006;AL;01;Alessandria;;;Provincia di Alessandria
+IT-AO;007;AO;02;Aosta;;Aoste;Valle d'Aosta
+IT-IM;008;IM;07;Imperia;;;Provincia di Imperia
+IT-SV;009;SV;07;Savona;;;Provincia di Savona
+IT-GE;010;GE;07;Genova;;;Provincia di Genova
+IT-SP;011;SP;07;La Spezia;;;Provincia della Spezia
+IT-VA;012;VA;03;Varese;;;Provincia di Varese
+IT-CO;013;CO;03;Como;;;Provincia di Como
+IT-SO;014;SO;03;Sondrio;;;Provincia di Sondrio
+IT-MI;015;MI;03;Milano;;;Provincia di Milano
+IT-BG;016;BG;03;Bergamo;;;Provincia di Bergamo
+IT-BS;017;BS;03;Brescia;;;Provincia di Brescia
+IT-PV;018;PV;03;Pavia;;;Provincia di Pavia
+IT-CR;019;CR;03;Cremona;;;Provincia di Cremona
+IT-MN;020;MN;03;Mantova;;;Provincia di Mantova
+IT-BZ;021;BZ;04;Bolzano;Bozen;;Provincia autonoma di Bolzano
+IT-TN;022;TN;04;Trento;;;Provincia autonoma di Trento
+IT-VR;023;VR;05;Verona;;;Provincia di Verona
+IT-VI;024;VI;05;Vicenza;;;Provincia di Vicenza
+IT-BL;025;BL;05;Belluno;;;Provincia di Belluno
+IT-TV;026;TV;05;Treviso;;;Provincia di Treviso
+IT-VE;027;VE;05;Venezia;;;Provincia di Venezia
+IT-PD;028;PD;05;Padova;;;Provincia di Padova
+IT-RO;029;RO;05;Rovigo;;;Provincia di Rovigo
+IT-UD;030;UD;06;Udine;;;Provincia di Udine
+IT-GO;031;GO;06;Gorizia;;;Provincia di Gorizia
+IT-TS;032;TS;06;Trieste;;;Provincia di Trieste
+IT-PC;033;PC;08;Piacenza;;;Provincia di Piacenza
+IT-PR;034;PR;08;Parma;;;Provincia di Parma
+IT-RE;035;RE;08;Reggio Emilia;;;Provincia di Reggio Emilia
+IT-MO;036;MO;08;Modena;;;Provincia di Modena
+IT-BO;037;BO;08;Bologna;;;Provincia di Bologna
+IT-FE;038;FE;08;Ferrara;;;Provincia di Ferrara
+IT-RA;039;RA;08;Ravenna;;;Provincia di Ravenna
+IT-FC;040;FC;08;Forlì-Cesena;;;Provincia di Forlì-Cesena
+IT-PU;041;PU;11;Pesaro e Urbino;;;Provincia di Pesaro e Urbino
+IT-AN;042;AN;11;Ancona;;;Provincia di Ancona
+IT-MC;043;MC;11;Macerata;;;Provincia di Macerata
+IT-AP;044;AP;11;Ascoli Piceno;;;Provincia di Ascoli Piceno
+IT-MS;045;MS;09;Massa e Carrara;;;Provincia di Massa e Carrara
+IT-LU;046;LU;09;Lucca;;;Provincia di Lucca
+IT-PT;047;PT;09;Pistoia;;;Provincia di Pistoia
+IT-FI;048;FI;09;Firenze;;;Provincia di Firenze
+IT-LI;049;LI;09;Livorno;;;Provincia di Livorno
+IT-PI;050;PI;09;Pisa;;;Provincia di Pisa
+IT-AR;051;AR;09;Arezzo;;;Provincia di Arezzo
+IT-SI;052;SI;09;Siena;;;Provincia di Siena
+IT-GR;053;GR;09;Grosseto;;;Provincia di Grosseto
+IT-PG;054;PG;10;Perugia;;;Provincia di Perugia
+IT-TR;055;TR;10;Terni;;;Provincia di Terni
+IT-VT;056;VT;12;Viterbo;;;Provincia di Viterbo
+IT-RI;057;RI;12;Rieti;;;Provincia di Rieti
+IT-RM;058;RM;12;Roma;;;Provincia di Roma
+IT-LT;059;LT;12;Latina;;;Provincia di Latina
+IT-FR;060;FR;12;Frosinone;;;Provincia di Frosinone
+IT-CE;061;CE;15;Caserta;;;Provincia di Caserta
+IT-BN;062;BN;15;Benevento;;;Provincia di Benevento
+IT-NA;063;NA;15;Napoli;;;Provincia di Napoli
+IT-AV;064;AV;15;Avellino;;;Provincia di Avellino
+IT-SA;065;SA;15;Salerno;;;Provincia di Salerno
+IT-AQ;066;AQ;13;L'Aquila;;;Provincia dell'Aquila
+IT-TE;067;TE;13;Teramo;;;Provincia di Teramo
+IT-PE;068;PE;13;Pescara;;;Provincia di Pescara
+IT-CH;069;CH;13;Chieti;;;Provincia di Chieti
+IT-CB;070;CB;14;Campobasso;;;Provincia di Campobasso
+IT-FG;071;FG;16;Foggia;;;Provincia di Foggia
+IT-BA;072;BA;16;Bari;;;Provincia di Bari
+IT-TA;073;TA;16;Taranto;;;Provincia di Taranto
+IT-BR;074;BR;16;Brindisi;;;Provincia di Brindisi
+IT-LE;075;LE;16;Lecce;;;Provincia di Lecce
+IT-PZ;076;PZ;17;Potenza;;;Provincia di Potenza
+IT-MT;077;MT;17;Matera;;;Provincia di Matera
+IT-CS;078;CS;18;Cosenza;;;Provincia di Cosenza
+IT-CZ;079;CZ;18;Catanzaro;;;Provincia di Catanzaro
+IT-RC;080;RC;18;Reggio Calabria;;;Provincia di Reggio Calabria
+IT-TP;081;TP;19;Trapani;;;Provincia di Trapani
+IT-PA;082;PA;19;Palermo;;;Provincia di Palermo
+IT-ME;083;ME;19;Messina;;;Provincia di Messina
+IT-AG;084;AG;19;Agrigento;;;Provincia di Agrigento
+IT-CL;085;CL;19;Caltanissetta;;;Provincia di Caltanissetta
+IT-EN;086;EN;19;Enna;;;Provincia di Enna
+IT-CT;087;CT;19;Catania;;;Provincia di Catania
+IT-RG;088;RG;19;Ragusa;;;Provincia di Ragusa
+IT-SR;089;SR;19;Siracusa;;;Provincia di Siracusa
+IT-SS;090;SS;20;Sassari;;;Provincia di Sassari
+IT-NU;091;NU;20;Nuoro;;;Provincia di Nuoro
+IT-CA;092;CA;20;Cagliari;;;Provincia di Cagliari
+IT-PN;093;PN;06;Pordenone;;;Provincia di Pordenone
+IT-IS;094;IS;14;Isernia;;;Provincia di Isernia
+IT-OR;095;OR;20;Oristano;;;Provincia di Oristano
+IT-BI;096;BI;01;Biella;;;Provincia di Biella
+IT-LC;097;LC;03;Lecco;;;Provincia di Lecco
+IT-LO;098;LO;03;Lodi;;;Provincia di Lodi
+IT-RN;099;RN;08;Rimini;;;Provincia di Rimini
+IT-PO;100;PO;09;Prato;;;Provincia di Prato
+IT-KR;101;KR;18;Crotone;;;Provincia di Crotone
+IT-VV;102;VV;18;Vibo Valentia;;;Provincia di Vibo Valentia
+IT-VB;103;VB;01;Verbano-Cusio-Ossola;;;Provincia del Verbano-Cusio-Ossola
+IT-OT;104;OT;20;Olbia-Tempio;;;Provincia di Olbia-Tempio
+IT-OG;105;OG;20;Ogliastra;;;Provincia dell'Ogliastra
+IT-VS;106;VS;20;Medio Campidano;;;Provincia del Medio Campidano
+IT-CI;107;CI;20;Carbonia-Iglesias;;;Provincia di Carbonia-Iglesias
+IT-MB;108;MB;03;Monza e Brianza;;;Provincia di Monza e della Brianza
+IT-FM;109;FM;11;Fermo;;;Provincia di Fermo
+IT-BT;110;BT;16;Barletta-Andria-Trani;;;Provincia di Barletta-Andria-Trani
